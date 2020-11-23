@@ -7,4 +7,4 @@
 
 ### Active projects 
 - [Surfers-Side (PPCP-AppManager)](http://appmanager.ppcplanet.org/) - Open Source
-- [Harmonium Discord Bot](https://kittytopx86.github.io/harmonium)
+- [Harmonium Discord Bot](https://kittytopx86.github.io/harmonium) - Closed Source
