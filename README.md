@@ -1,6 +1,6 @@
 ### kittytopx86 🐈💻
 
-== Interested in computers, phones, pdas old and new ==
+==  Interested in retro computers, phones, pdas and all other retro technology ==
   - Contact me: kittytopx86@gmail.com -
   - Discord: meow meow#2130 -
 <!-- Hey there (=^･ω･^=) -->
