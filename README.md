@@ -1,10 +1,10 @@
 ### kittytopx86 🐈💻
 
-==  Interested in retro computers, phones, pdas and all other retro technology ==
-  - Contact me: kittytopx86@gmail.com -
-  - Discord: meow meow#2130 -
+I'm Kitty, a cattop that's interested in all kinds of retro technology ranging from old computer's to early mobile technology like PDA's.
+Welcome to my GitHub account, here you will find all my projects that I'm working on!
+  - Contact me: https://kittytopx86.me/ -
 <!-- Hey there (=^･ω･^=) -->
 
 ### Active projects 
-- [Surfers-Side (PPCP-AppManager)](http://appmanager.ppcplanet.org/) - Open Source
-- [Harmonium Discord Bot](https://kittytopx86.github.io/harmonium) - Closed Source
+- [Surfers-Side (PPCP-AppManager)](http://appmanager.ppcplanet.org/) 
+- [Windows Phone Enthusiasts](https://WindowsPhoneEnthusiasts.github.io/) 
